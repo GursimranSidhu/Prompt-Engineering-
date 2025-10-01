@@ -1,0 +1,7 @@
+prompt,completion
+Write a Python function to add two numbers.,"def add(a, b):
+    return a + b"
+Write a Python function to check if a number is even.,"def is_even(n):
+    return n % 2 == 0"
+Write a Python function to find factorial.,"def factorial(n):
+    return 1 if n == 0 else n * factorial(n-1)"
